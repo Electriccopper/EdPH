@@ -1,1 +1,2 @@
 Project started on Github;  //06/december/2014
+Added some documentation;   //13/december/2014
